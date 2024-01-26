@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+    width: 100%;
+    
+}
+.main-icon{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid ;
+    height: 60px;
+    align-items: center;
+    border: none;
+    padding: 0px 30px;
+    border-bottom: 1px solid;
+}
+.class{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.apps{
+    display: flex;
+    align-items: center;
+    width: 15%;
+    gap: 40px;
+}
+.href{
+    border-right: 1px solid;
+    width: 330px;
+    height: 675px;
+}
+.regular{
+    border-bottom: 1px solid;
+}
+.title{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 15px;
+    margin-left: 30px;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: black;
+}
+.w{
+    border: 1px solid;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 24px;
+    background-color: #43A047;
+    color: white;
+    font-size: large;
+}
+.h4{
+    display: flow;
+    text-align: justify;
+}
+.charset{
+    border: 1px solid black;
+    width: 320px;
+    height: 340px;
+    margin: 30px;
+    border-radius: 10px;
+
+}
+.main-img{
+    background-image: url(https://gstatic.com/classroom/themes/img_bookclub.jpg);
+    background-repeat: round;
+    background-size: cover;
+    border-radius: 9px;
+    height: 140px;
+
+}
+.Develop{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.Develop H2{
+    font-size: 23px;
+    font-family: sans-serif;
+    color: #FFF;
+}
+.Develop p{
+    font-family: sans-serif;
+    font-size: 10px;
+    color: #FFF;
+}
+.Rizwan{
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #FFF;
+}
+.true{
+    display: flex;
+    justify-content: right;
+    margin-top: 135px;
+    gap: 40px;
+    border-top: 1px solid;
+    padding: 10px;  
+}
+
+.p:hover{
+       
+    text-decoration: underline;
+    line-height: 20px;
+    
+}
+.black:hover{
+    background-color:rgb(222, 220, 215);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px saddlebrown;
+    
+}
+
+.charset:hover{
+    box-shadow: 5px 5px 40px rgb(43, 43, 43);
+}
